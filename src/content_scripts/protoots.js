@@ -6,6 +6,7 @@ const contributorList = [
 	"vivien@queer.group",
 	"jasmin@queer.group",
 	"aurora@queer-lexikon.net",
+	"aurora@toot.queer-lexikon.net",
 	"LenaEine@chaos.social",
 ];
 
